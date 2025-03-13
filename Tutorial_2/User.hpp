@@ -20,4 +20,4 @@ public:
   virtual bool isAdmin() const; // Default false, hanya akan override oleh AdminUser
 };
 
-#endif
+#endif 
